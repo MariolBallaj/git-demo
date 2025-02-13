@@ -1,7 +1,5 @@
 package com.lhind.internship;
 
-import org.apache.commons.lang3.StringUtils;
-
 import static com.lhind.internship.CommonUtils.checkString;
 
 public class GitDemoApplication {
